@@ -1,4 +1,4 @@
-# 
+# VIP TurboTax tools for Mac OS | Open Source TurboTax tools for PC Windows. Featuring receipt scanning and watermarking — optimized for maximum performance on every platform.
 
 
 
